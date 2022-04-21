@@ -1,4 +1,4 @@
-## Greetings! I am Mateus and I am a Full Stack Web Developer. 
+## Greetings! I am Mateus and I am a Full Stack Developer. 
 
 ### I like to mix web applications with exciting stuff such as AI/ML, VR/AR and much more...
 
