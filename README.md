@@ -1,12 +1,10 @@
 ## Greetings! I am Mateus and I am a Full Stack Developer. 
 
-![Tavern in Metaverse](https://media.giphy.com/media/E2b4tl87W7Acnnk67i/giphy-downsized-large.gif)
+### I like to mix web applications with exciting stuff such as AI/ML, VR/AR and much more...
 
 ![Glasses try on](https://media.giphy.com/media/87X2bfwa5gmPjVwLQq/giphy.gif)
 
 ![Image tracking](https://media.giphy.com/media/RyVj1ZpJHO7Kg5o2YQ/giphy.gif)
-
-### I like to mix web applications with exciting stuff such as AI/ML, VR/AR and much more...
 
 <div align="center">
   <div style="display: flex">
