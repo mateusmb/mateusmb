@@ -2,8 +2,6 @@
 
 ### I like to mix web applications with exciting stuff such as AI/ML, VR/AR and much more...
 
-![Glasses try on](https://media.giphy.com/media/87X2bfwa5gmPjVwLQq/giphy.gif)
-
 <div align="center">
   <div style="display: flex">
     <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
