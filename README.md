@@ -4,8 +4,6 @@
 
 ![Glasses try on](https://media.giphy.com/media/87X2bfwa5gmPjVwLQq/giphy.gif)
 
-![Image tracking](https://media.giphy.com/media/RyVj1ZpJHO7Kg5o2YQ/giphy.gif)
-
 <div align="center">
   <div style="display: flex">
     <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
